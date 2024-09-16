@@ -44,7 +44,7 @@ To run this project locally, you need to have Python and the required libraries 
 
 ## Results
 
-The project includes several key findings and visualizations which highlight:
+### The project includes several key findings and visualizations which highlight:
 
 1.The most expansive Airlines are Jet Airways Business, Jet Airways,Multiple carries,Air India
 
@@ -60,5 +60,7 @@ This project is licensed under the MIT License
 
 ## Acknowledgments
 The dataset was provided by [Kaggle].
+Feel free to modify any section to better or add any additional details you think are important for contact email:akashsuklabaidya780@gamil.com
+
 
 
