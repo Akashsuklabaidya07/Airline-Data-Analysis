@@ -43,8 +43,22 @@ To run this project locally, you need to have Python and the required libraries 
 2. Perform data cleaning, EDA, and data visualization as demonstrated in the Jupyter Notebooks or Python scripts provided in this repository
 
 ## Results
+
 The project includes several key findings and visualizations which highlight:
--
-   
+
+1.The most expansive Airlines are Jet Airways Business, Jet Airways,Multiple carries,Air India
+
+2.the most busiest destinations in India are Delhi, Kolkata, Banglore, mumbai
+
+3.Busiest Sources in India are Cochine, Banglore, Delhi , new Delh etc
+
+4.The no of total stops of Jet Airways is maximum 2535, Indigo 1231.
+
+## License
+
+This project is licensed under the MIT License
+
+## Acknowledgments
+The dataset was provided by [Kaggle].
 
 
